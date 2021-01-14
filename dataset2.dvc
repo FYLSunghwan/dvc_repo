@@ -1,0 +1,12 @@
+md5: bca392f161808ef4c904779489552d11
+frozen: true
+deps:
+- path: dataset2
+  repo:
+    url: https://github.com/FYLSunghwan/dvc_dataset.git
+    rev_lock: 5c374291c94befc634294595813e9530026d067c
+outs:
+- md5: cae93f08080d891d334f0b9fe050926c.dir
+  size: 0
+  nfiles: 6
+  path: dataset2
